@@ -9,6 +9,11 @@ This repository demonstrates two different approaches for **Neural Style Transfe
 1. **Traditional Neural Style Transfer** (iterative, custom implementation)
 2. **Fast Style Transfer** using pre-trained models from **TensorFlow Hub**
 
+  
+
+   ![Alt text describing the image]( https://github.com/Adhi-Git-hub/Neural-Style-Transfer/blob/main/TensorFlow%20Hub%20Model-1.jpg)
+
+
 Neural Style Transfer (NST) is a technique that allows us to apply the artistic style of one image to the content of another image. The traditional approach uses a deep neural network with multiple iterations to adjust the content image, whereas the fast style transfer method uses a pre-trained model for real-time performance.
 
 ## 1. Traditional Neural Style Transfer
