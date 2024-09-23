@@ -76,7 +76,5 @@ Neural Style Transfer (NST) is a technique that allows us to apply the artistic 
 
 ## References
 
-- Gatys et al., 2016: A Neural Algorithm of Artistic Style
-- Johnson et al., 2016: Perceptual Losses for Real-Time Style Transfer and Super-Resolution
-- TensorFlow Hub: Fast Style Transfer Models
+- book - generative-deep-learning-teaching-machines-to-paint-write-compose-and-play
 
