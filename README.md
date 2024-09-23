@@ -64,15 +64,6 @@ Neural Style Transfer (NST) is a technique that allows us to apply the artistic 
 | **Hardware Dependency**         | Needs powerful GPU for faster performance          | Optimized for real-time, even on mobile devices   |
 | **Use Case**                    | High-quality artistic stylization                  | Real-time stylization for mobile apps and others  |
 
-## How to Run
-
-1. **Traditional NST**: Run the `traditional_nst.py` file. The content image will be stylized over multiple epochs (default: 10 epochs).
-2. **Fast NST**: Run the `fast_nst.py` file. The content image will be stylized in a few seconds using the TensorFlow Hub model.
-
-## Future Improvements
-
-- **Hybrid Models**: Combining the flexibility of traditional methods with the speed of fast models.
-- **Mobile Optimization**: Further optimization using frameworks like **TensorFlow Lite** to make it even more efficient for mobile platforms.
 
 ## References
 
